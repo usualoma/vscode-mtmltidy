@@ -4,6 +4,10 @@ This extension is still in development.
 
 Add a formatter "mtmltidy" to MTML.
 
+## Screen capture
+
+https://user-images.githubusercontent.com/30598/148295415-f006b7d4-161f-499d-a287-900debb60280.mov
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
